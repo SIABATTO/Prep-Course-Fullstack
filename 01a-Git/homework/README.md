@@ -86,8 +86,8 @@ Una vez tengas la dirección copiada, abre una terminal nueva y escribe lo sigui
 
 
 ```bash
-  $ cd ~
-
+  $ cd ~cd
+  
   $ cd CarpetaHenry
 
   $ git clone [dirección copiada]
